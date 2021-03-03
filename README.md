@@ -34,9 +34,9 @@ Typography is important, but you'll notice an emphasis on composition. Take risk
 ## Evaluation
 Each requirement noted above will be evaluated as "meets", "approaches" or "does not meet." 
 
-10% Content
-30% Technical
-30% Process
+10% Content\
+30% Technical\
+30% Process\
 30% Design 
 
 ## Submission
