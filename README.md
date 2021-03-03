@@ -21,6 +21,7 @@ Your event landing page should introduce us to the event and have a call to acti
 - [ ] Sketch design ideas across multiple screen sizes. Explore multiple options at each screen size.
 - [ ] Ask for and record (take notes on) feedback from at least two peers
 - [ ] Code was written in chunks and committed to GitHub when individual components were complete. Example: a commit for the HTML, a commit for typography, a commit for mobile layout, a commit for medium screen layouts, a commit for large screens, etc.
+- [ ] Images and content are properly documented in a [copyright documentation spreadsheet](https://docs.google.com/spreadsheets/d/1hWHAFldySHAPDUjdQ2PwHVHf7rTKbuX5fZdCbB4xI5A/copy)
 
 ### Design
 Typography is important, but you'll notice an emphasis on composition. Take risks.
@@ -45,3 +46,4 @@ Submit this exercise on blackboard. Include the following:
 - [ ] URL to Accessibility Audit
 - [ ] Screenshot of HTML Validation
 - [ ] Screenshot of CSS Validation
+- [ ] Copyright documentation
